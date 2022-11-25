@@ -1,11 +1,11 @@
 
   body{
-   background:people;
+   background:purple;
     color:blue;
 }
   td{
     border: 2px solid;
-    background:people
+    background:purple
       color:blue;
     font-size:25px:
 }
